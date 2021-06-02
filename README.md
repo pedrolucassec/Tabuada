@@ -1,5 +1,5 @@
 # Tabuada
-<b>Tabuada feita em Rust</b>
+Tabuada feita em Rust
 
 <b>[Modo de Uso]<b><br><br>
 <b>[Clone o Repositório]<b><br>git clone https://github.com/pedrolucassec/Tabuada<br><br>
