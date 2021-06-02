@@ -1,6 +1,4 @@
-# Tabuada
-<b>Tabuada feita em Rust<b>
-
+# Tabuada em Rust
 <b>[Clone o Repositório]<b><br>git clone https://github.com/pedrolucassec/Tabuada<br><br>
 <b>[Entre na Pasta]<b><br>cd Tabuada<br><br>
 <b>[Crie o Executável]<b><br>rustc tabuada.rs<br><br>
